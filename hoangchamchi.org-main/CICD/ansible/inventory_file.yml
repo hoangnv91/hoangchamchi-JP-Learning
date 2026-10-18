@@ -1,0 +1,5 @@
+[hoangchamchi_primary]
+49.13.140.71 ansible_user=root ansible_ssh_private_key_file=/home/coil/.ssh/id_rsa
+
+[hoangchamchi_secondary]
+hoangchamchi-dev.org ansible_user=root ansible_ssh_private_key_file=/home/coil/.ssh/id_rsa
